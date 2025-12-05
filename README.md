@@ -1,7 +1,8 @@
- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="40">&nbsp; ##Olá! Eu sou o Achiles Bezerra Polcelli
+  <h2><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="40">&nbsp;Olá! Eu sou o Achiles Bezerra Polcelli</h2>
 
 - 🔭 Atuamente procura minha primeira oportunidade na área da Tecnologia 
-- 🌱 Fazendo faculdade de Anállise e Desenvolvimento de Sistemas na Universidade FIAP]
+- 🌱 Fazendo faculdade de Anállise e Desenvolvimento de Sistemas na Universidade FIAP
+- 💻 Programador Front-End
 
 <br><br>
 
@@ -19,6 +20,8 @@
 <br>
 <a href="https://instagram.com/a.polcelli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:apollcelli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/achiles-bezerra-polcelli-042b72238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="wa.me/5511940863337" target="_blank"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"/></a>
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
