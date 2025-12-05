@@ -3,7 +3,7 @@ Me chamo Achiles Polcelli <br>
 <br>
 
 - 🔭 Atuamente procura minha primeira oportunidade na área da Tecnologia 
-- 🌱 Fazendo faculdade de Anállise e Desenvolvimento de Sistemas na Universidade FIAP
+- 🌱 Cursando Anállise e Desenvolvimento de Sistemas na Universidade FIAP
 - 💻 Programador Front-End
 - 📩 Contato: ⤵️ <br>
 
@@ -13,9 +13,8 @@ Me chamo Achiles Polcelli <br>
 <a href="wa.me/5511940863337" target="_blank"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"/></a>
 <br><br>
 
-<h2>Skills</h2>
+<h2>Skills  <img align="center" height="40" width="40" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60"></h2>
 <div style="display: inline_block">
-  <img align="center" height="60" width="60" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60">
   <img align="center" alt="Achiles-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Achiles-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Achiles-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,4 +25,5 @@ Me chamo Achiles Polcelli <br>
 </div>
 
 <br><br>
+
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
