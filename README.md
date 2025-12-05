@@ -2,7 +2,7 @@
 Me chamo Achiles Polcelli <br>
 <br>
 
-- 🔭 Atuamente procura minha primeira oportunidade na área da Tecnologia 
+- 🔭 Atuamente procurando uma oportunidade na área da Tecnologia 
 - 🌱 Cursando Anállise e Desenvolvimento de Sistemas na Universidade FIAP
 - 💻 Programador Front-End
 - 📩 Contato: ⤵️ <br>
