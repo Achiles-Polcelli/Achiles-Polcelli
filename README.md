@@ -24,6 +24,15 @@ Me chamo Achiles Polcelli <br>
   <img align="center" alt="Achiles-Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
 </div>
 
+
+<div style="align-itens: center">
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,js,c+,bootstrap,fontawesome,python,figma,git,github,vscode" /
+      </a>
+    </p>
+</div>
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
