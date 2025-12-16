@@ -20,6 +20,9 @@ Me chamo Achiles Polcelli <br>
       <img src="https://skillicons.dev/icons?i=html,css,js,c,bootstrap,python,figma,git,github,vscode" /
     </a>
     </p>
+    
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+<div id="gif"> 
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+</div>
