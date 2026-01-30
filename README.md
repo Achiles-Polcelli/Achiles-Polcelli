@@ -8,7 +8,7 @@ Me chamo Achiles Polcelli <br>
 - Acesse meu portifólio clicando <a href="https://achiles-polcelli.github.io/Portfolio_Achiles/" target="_blank" align="right">aqui</a>
 - 📩 Contato: ⤵️ <br>
 
-<a href="[https://instagram.com/a.polcelli](https://www.instagram.com/achiles.dev/)" target="_blank" align="right"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/a.polcelli" target="_blank" align="right"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:apollcelli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/achiles-bezerra-polcelli-042b72238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="wa.me/5511940863337" target="_blank"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"/></a>
