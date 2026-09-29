@@ -18,7 +18,7 @@ Me chamo Achiles Polcelli <br>
 <p>
   <a href="https://skillicons.dev">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,rect,js,python,java,mongodb,bootstrap,figma,vscode,visualstudio,discord" /
+      <img src="https://skillicons.dev/icons?i=html,css,react,js,python,java,mongodb,bootstrap,figma,vscode,visualstudio,discord" /
     </a>
     </p>
     
