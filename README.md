@@ -3,7 +3,8 @@ Me chamo Achiles Polcelli <br>
 <br>
 
 - 🔭 Atuamente procurando uma oportunidade na área da Tecnologia 
-- 🌱 Cursando Anállise e Desenvolvimento de Sistemas na Universidade FIAP
+- 🌱 Formado em Análise e Desenvolvimento de Sistemas na Universidade FIAP
+- 📚 Cursando Engenharia de Software pela UnP
 - 💻 Programador Front-End & Designer
 - Acesse meu portifólio clicando <a href="https://achiles-polcelli.github.io/Portfolio_Achiles/" target="_blank" align="right">aqui</a>
 - 📩 Contato: ⤵️ <br>
